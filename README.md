@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered data validation system specifically designed for pension fund data compliance. This system combines Excel/CSV file processing, MongoDB storage, and AI-driven analysis using Ollama/Mistral for comprehensive data validation and reporting.
 
+> **Finance Data Validator** – An AI-powered tool that validates financial datasets against a given set of rules. Upload a rules file and a data file, and the tool checks for compliance, highlights errors, detects inconsistencies, and provides a detailed data quality report in plain language.
+
 ## 🌟 Features
 
 ### Core Functionality
